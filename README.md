@@ -53,9 +53,13 @@ $ python run_UA.py
     </p>
 Visualization of contributions for a selected patient on PhysioNet mortality prediction task. MechVent - Mechanical ventilation, DiasABP - Diastolic arterial blood pressure, HR - Heart rate, Temp - Temperature, SysABP - Systolic arterial blood pressure, FiO2 - Fractional inspired Oxygen, MAP - Meanarterial blood pressure, Urine - Urine output, GCS - Glasgow coma score. The table presents the value of physiological variables at the previous and the current timestep. Dots correspond to sampled attention weights.
 <p align="center">
-<img width="949" height="355" src="https://github.com/OpenXAIProject/UncertintyAttention_DropMax/blob/master/UA-master/ua_interpretation_2.PNG">
+<img width="927" height="195" src="https://github.com/OpenXAIProject/UncertintyAttention_DropMax/blob/master/UA-master/ua_interpretation_2.PNG">
     </p>
-
+Uncertainty over prediction strength on PhysioNet Challenge dataset. For all models, we measured the prediction uncertainty by using MC-dropout with 50 samples.
+<p align="center">
+<img width="924" height="335" src="https://github.com/OpenXAIProject/UncertintyAttention_DropMax/blob/master/UA-master/ua_interpretation_3.PNG">
+    </p>
+Experiments on prediction reliability. The line charts show the ratio of incorrect predictions as a function of the ratio of correct predictions for all datasets.
 <br />
 
 # DropMax: Adaptive Variationial Softmax
@@ -91,6 +95,11 @@ If you found the provided code useful, please cite our work.
 <p align="center">
 <img width="933" height="242" src="https://github.com/OpenXAIProject/UncertintyAttention_DropMax/blob/master/dropmax-master/dropmax_result1.JPG">
     </p>
+Examples from CIFAR-100 dataset with top-4 and bottom-2 retain probabilities. Blue and red color denotes the ground truths and base model predictions respectively.
+<p align="center">
+<img width="970" height="243" src="https://github.com/OpenXAIProject/UncertintyAttention_DropMax/blob/master/dropmax-master/dropmax_result2.JPG">
+    </p>
+Contour plots of softmax and DropMax with different retain probabilities. For DropMax, we sampled the Bernoulli variables for each data point with fixed probabilities.
 
 ### Implementation Issue
 Note that LeNet is used as the base network for this code, whereas in the paper we used the network in the Tensorflow-Tutorial (refer to https://gist.github.com/saitodev/c4c7a8c83f5aa4a00e93084dd3f848c5). But the training results and tendencies are similar.
