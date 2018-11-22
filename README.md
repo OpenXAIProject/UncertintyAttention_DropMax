@@ -51,6 +51,10 @@ $ python run_UA.py
 <p align="center">
 <img width="949" height="355" src="https://github.com/OpenXAIProject/UncertintyAttention_DropMax/blob/master/UA-master/ua_interpretation_1.PNG">
     </p>
+Visualization of contributions for a selected patient on PhysioNet mortality prediction task. MechVent - Mechanical ventilation, DiasABP - Diastolic arterial blood pressure, HR - Heart rate, Temp - Temperature, SysABP - Systolic arterial blood pressure, FiO2 - Fractional inspired Oxygen, MAP - Meanarterial blood pressure, Urine - Urine output, GCS - Glasgow coma score. The table presents the value of physiological variables at the previous and the current timestep. Dots correspond to sampled attention weights.
+<p align="center">
+<img width="949" height="355" src="https://github.com/OpenXAIProject/UncertintyAttention_DropMax/blob/master/UA-master/ua_interpretation_2.PNG">
+    </p>
 
 <br />
 
