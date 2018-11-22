@@ -39,8 +39,8 @@ This code is written in Python2.7 and requires [TensorFlow 1.3](https://www.tens
 
 ### Run the model
 1. I've provided two different scripts for running UA and UA+ models. 
-2. Before running, you can specify the size of 'embed_size', the size of the 'hidden_units' in LSTM cells, and the number of recurrent layers that generate attention alpha and beta in run_UA.py and run_UA_plus.py files.
-3. Dropouts rates can be adjusted in model_UA.py model_UA_plus.py files.
+2. Before running, you can specify the size of 'embed_size', the size of the 'hidden_units' in LSTM cells, and the number of recurrent layers that generate attention alpha and beta in run_UA.py file.
+3. Dropouts rates can be adjusted in model_UA.py file.
 4. To train and evaluate the model, run command below.
 ```bash
 $ cd UA-master
