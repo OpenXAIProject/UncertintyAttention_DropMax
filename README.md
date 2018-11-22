@@ -47,6 +47,9 @@ $ cd UA-master
 $ python run_UA.py 
 ```
 
+### Results
+
+
 <br />
 
 # DropMax: Adaptive Variationial Softmax
