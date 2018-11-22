@@ -19,6 +19,10 @@ Attention prediction model based on uncertainty
 
 + Web Site : <http://openXai.org>
 
+# Contact
+Jay Huh, jeyheo7@gmail.com
+Haebeom Lee, haebeom.lee@kaist.ac.kr 
+
 # Uncetainty-Aware Attention for Reliable Interpretation and Prediction
 + Jay Heo(KAIST, Co-author), Hae Beom Lee (KAIST, Co-author), Saehoon Kim (AITRICS), Juho Lee (Univ. Oxford), Kwang Joon Kim(Yonsei University College of Medicine), Eunho Yang (KAIST), and Sung Ju Hwang (KAIST)
 
@@ -63,6 +67,8 @@ This code is written in Python2.7 and requires [TensorFlow 1.3](https://www.tens
 $ python run_UA.py 
 $ python run_UA_plus.py
 ```
+
+<br />
 
 # DropMax: Adaptive Variationial Softmax
 + Hae Beom Lee (KAIST), Juho Lee (Univ. Oxford), Saehoon Kim (AITRICS), Eunho Yang (KAIST), and Sung Ju Hwang (KAIST)
