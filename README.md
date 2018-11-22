@@ -1,5 +1,5 @@
-# Uncetainty-Aware Attention for Reliable Interpretation and Prediction and DropMax: Adaptive Variational Softmax
-Uncetainty-Aware Attention for Reliable Interpretation and Prediction and DropMax: Adaptive Variational Softmax
+# Explanable AI based on Uncertainty-Aware Attention and Adaptive Variational Softmax
+Uncetainty-Aware Attention for Reliable Interpretation and Prediction, and DropMax: Adaptive Variational Softmax
 
 <br />
 
