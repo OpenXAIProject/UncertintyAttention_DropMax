@@ -97,6 +97,12 @@ If you found the provided code useful, please cite our work.
 ```
 
 ### Run examples
+```bash
+$ cd dropmax-master
+$ run run.sh --mnist_path Folder_PATH 
+$ run run.sh --model 'softmax' or 'dropmax'
+$ run run.sh
+```
 1. cd dropmax-master
 2. Modify ```--mnist_path```, in ```run.sh```
 3. Specify ```--model``` among ```softmax``` or ```dropmax```, in ```run.sh```
