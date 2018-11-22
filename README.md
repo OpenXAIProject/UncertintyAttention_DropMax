@@ -1,5 +1,5 @@
 # Uncertinty Attention and DropMax
-Attention prediction model based on uncertainty
+Uncetainty-Aware Attention for Reliable Interpretation and Prediction and DropMax: Adaptive Variational Softmax
 
 <br />
 
