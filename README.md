@@ -1,4 +1,4 @@
-# UncertintyAttention_DropMax
+# Uncertinty Attention and DropMax
 Attention prediction model based on uncertainty
 
 ## License
@@ -20,7 +20,7 @@ Attention prediction model based on uncertainty
 + Web Site : <http://openXai.org>
 
 # Contact
-Jay Huh, jayheo7@gmail.com
+Jay Heo, jayheo7@gmail.com
 <br />
 Haebeom Lee, haebeom.lee@kaist.ac.kr 
 
