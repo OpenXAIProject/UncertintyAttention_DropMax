@@ -6,8 +6,6 @@ Attention prediction model based on uncertainty
 ## License
 [Apache License 2.0](https://github.com/OpenXAIProject/tutorials/blob/master/LICENSE "Apache")
 
-<br /> 
-
 # XAI Project 
 
 **These works were supported by Institute for Information & Communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (No.2017-0-01779, A machine learning and statistical inference framework for explainable artificial intelligence)**
