@@ -100,6 +100,6 @@ Note that LeNet is used as the base network for this code, whereas in the paper 
 + Web Site : <http://openXai.org>
 
 # Contact
-Jay Heo, jayheo7@gmail.com
+Jay Heo, sflame87@kaist.ac.kr
 <br />
 Haebeom Lee, haebeom.lee@kaist.ac.kr 
