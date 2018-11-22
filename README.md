@@ -56,7 +56,7 @@ If you found the provided code useful, please cite our work.
 
 First, clone this repo in same directory.
 ```bash
-$ git clone https://github.com/jayheo/UA
+$ git clone https://github.com/OpenXAIProject/UncertintyAttention_DropMax.git
 ```
 This code is written in Python2.7 and requires [TensorFlow 1.3](https://www.tensorflow.org/versions/r1.3/install/install_linux). In addition, you need to go through further procedures to download datasets such as [Physionet Challenge 2012](https://physionet.org/physiobank/database/challenge/2012/) and [MIMIC-III dataset](https://mimic.physionet.org/). You will first need to request access for MIMIC-III after completing the CITI "Data or Specimens Only Research" course. For the convenience, I have provided Physionet datasets for mortality task in a form of numpy arrays that you can directly run the models. 
 
@@ -66,6 +66,7 @@ This code is written in Python2.7 and requires [TensorFlow 1.3](https://www.tens
 3. Dropouts rates can be adjusted in model_UA.py model_UA_plus.py files.
 4. To train and evaluate the model, run command below.
 ```bash
+$ cd UA-master
 $ python run_UA.py 
 $ python run_UA_plus.py
 ```
