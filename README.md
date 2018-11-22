@@ -49,7 +49,7 @@ $ python run_UA_plus.py
 This is the Tensor-Flow implementation for the paper DropMax: Adaptive Variationial Softmax (NIPS 2018) : https://arxiv.org/abs/1712.07834
 
 ## Abstract
-<img align="right" width="400" src="https://github.com/haebeom-lee/dropmax/blob/master/concept.png">
+<img align="right" width="400" src="https://github.com/OpenXAIProject/UncertintyAttention_DropMax/tree/master/dropmax-master/concept.png">
 We propose DropMax, a stochastic version of softmax classifier which at each iteration drops non-target classes according to dropout probabilities adaptively decided for each instance. Specifically, we overlay binary masking variables over class output probabilities, which are input-adaptively learned via variational inference. This stochastic regularization has an effect of building an ensemble classifier out of exponentially many classifiers with different decision boundaries. Moreover, the learning of dropout rates for non-target classes on each instance allows the classifier to focus more on classification against the most confusing classes. We validate our model on multiple public datasets for classification, on which it obtains significantly improved accuracy over the regular softmax classifier and other baselines. Further analysis of the learned dropout probabilities shows that our model indeed selects confusing classes more often when it performs classification.
 
 ## Reference
