@@ -20,8 +20,11 @@ Attention prediction model based on uncertainty
 + Web Site : <http://openXai.org>
 
 # Contact
-Jay Huh, jeyheo7@gmail.com
+Jay Huh, jayheo7@gmail.com
+<br />
 Haebeom Lee, haebeom.lee@kaist.ac.kr 
+
+<br />
 
 # Uncetainty-Aware Attention for Reliable Interpretation and Prediction
 + Jay Heo(KAIST, Co-author), Hae Beom Lee (KAIST, Co-author), Saehoon Kim (AITRICS), Juho Lee (Univ. Oxford), Kwang Joon Kim(Yonsei University College of Medicine), Eunho Yang (KAIST), and Sung Ju Hwang (KAIST)
