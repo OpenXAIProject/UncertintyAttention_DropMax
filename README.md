@@ -1,4 +1,4 @@
-# Uncertinty Attention and DropMax
+# Uncetainty-Aware Attention for Reliable Interpretation and Prediction and DropMax: Adaptive Variational Softmax
 Uncetainty-Aware Attention for Reliable Interpretation and Prediction and DropMax: Adaptive Variational Softmax
 
 <br />
