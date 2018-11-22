@@ -83,7 +83,7 @@ If you found the provided code useful, please cite our work.
 
 ### Results
 <p align="center">
-<img width="1333" height="347" src="https://github.com/OpenXAIProject/UncertintyAttention_DropMax/blob/master/dropmax-master/dropmax_result1.jpg">
+<img width="933" height="242" src="https://github.com/OpenXAIProject/UncertintyAttention_DropMax/blob/master/dropmax-master/dropmax_result1.JPG">
     </p>
 
 ### Implementation Issue
