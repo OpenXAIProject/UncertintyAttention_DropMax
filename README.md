@@ -3,28 +3,6 @@ Uncetainty-Aware Attention for Reliable Interpretation and Prediction and DropMa
 
 <br />
 
-## License
-[Apache License 2.0](https://github.com/OpenXAIProject/tutorials/blob/master/LICENSE "Apache")
-
-# XAI Project 
-
-**These works were supported by Institute for Information & Communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (No.2017-0-01779, A machine learning and statistical inference framework for explainable artificial intelligence)**
-
-+ Project Name : A machine learning and statistical inference framework for explainable artificial intelligence(의사결정 이유를 설명할 수 있는 인간 수준의 학습·추론 프레임워크 개발)
-
-+ Managed by Ministry of Science and ICT/XAIC <img align="right" src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width=300px>
-
-+ Participated Affiliation : UNIST, Korea Univ., Yonsei Univ., KAIST, AItrics  
-
-+ Web Site : <http://openXai.org>
-
-# Contact
-Jay Heo, jayheo7@gmail.com
-<br />
-Haebeom Lee, haebeom.lee@kaist.ac.kr 
-
-<br />
-
 # Uncetainty-Aware Attention for Reliable Interpretation and Prediction
 + Jay Heo(KAIST, Co-author), Hae Beom Lee (KAIST, Co-author), Saehoon Kim (AITRICS), Juho Lee (Univ. Oxford), Kwang Joon Kim(Yonsei University College of Medicine), Eunho Yang (KAIST), and Sung Ju Hwang (KAIST)
 
@@ -104,3 +82,25 @@ If you found the provided code useful, please cite our work.
 
 ### Implementation Issue
 Note that LeNet is used as the base network for this code, whereas in the paper we used the network in the Tensorflow-Tutorial (refer to https://gist.github.com/saitodev/c4c7a8c83f5aa4a00e93084dd3f848c5). But the training results and tendencies are similar.
+
+<br />
+
+## License
+[Apache License 2.0](https://github.com/OpenXAIProject/tutorials/blob/master/LICENSE "Apache")
+
+# XAI Project 
+
+**These works were supported by Institute for Information & Communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (No.2017-0-01779, A machine learning and statistical inference framework for explainable artificial intelligence)**
+
++ Project Name : A machine learning and statistical inference framework for explainable artificial intelligence(의사결정 이유를 설명할 수 있는 인간 수준의 학습·추론 프레임워크 개발)
+
++ Managed by Ministry of Science and ICT/XAIC <img align="right" src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width=300px>
+
++ Participated Affiliation : UNIST, Korea Univ., Yonsei Univ., KAIST, AItrics  
+
++ Web Site : <http://openXai.org>
+
+# Contact
+Jay Heo, jayheo7@gmail.com
+<br />
+Haebeom Lee, haebeom.lee@kaist.ac.kr 
