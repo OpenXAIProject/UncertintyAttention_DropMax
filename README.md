@@ -5,7 +5,6 @@ Attention prediction model based on uncertainty
 [Apache License 2.0](https://github.com/OpenXAIProject/tutorials/blob/master/LICENSE "Apache")
 
 <br /> 
-<br />
 
 # XAI Project 
 
